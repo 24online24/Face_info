@@ -1,11 +1,15 @@
 appnope==0.1.0
 astroid==2.4.2
 deepface==0.0.33
+dlib==19.20.0
 face-recognition==1.3.0
 face-recognition-models==0.3.0
 isort==4.3.21
 jedi==0.17.2
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
 pylint==2.5.3
+tensorflow==2.2.0
 typed-ast==1.4.1
